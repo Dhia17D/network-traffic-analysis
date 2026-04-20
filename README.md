@@ -2,7 +2,6 @@
 
 A real-time network traffic analysis tool with a modern web-based dashboard. Capture, analyze, and visualize network packets with an intuitive interface.
 
-![Dashboard Preview](docs/dashboard-preview.png)
 
 ## Features
 
